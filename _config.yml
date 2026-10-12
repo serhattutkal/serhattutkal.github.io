@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Serhat Tutkal"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher funded by Secihti at El Colegio de México"
+  bio              : "Postdoctoral researcher funded by Secretaría de Ciencia, Humanidades, Tecnología e Innovación at El Colegio de México"
   location         : "Mexico City"
-  employer         : "Secretaría de Ciencia, Humanidades, Tecnología e Innovación - Secihti"
+  employer         : "Secihti"
   uri              : # URL
   email            : "stutkal@unal.edu.co" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # serhattutkal.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +67,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
+  mastodon         : # https://fediscience.org/@SerhatTutkal
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
