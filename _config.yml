@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # serhattutkal.bsky.social
+  bluesky          : "https://bsky.app/profile/serhattutkal.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,8 +64,8 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # serhat-tutkal-440367277
-  mastodon         : # "https://fediscience.org/@SerhatTutkal"
+  linkedin         : "https://www.linkedin.com/in/serhat-tutkal-440367277"
+  mastodon         : "https://fediscience.org/@SerhatTutkal"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
