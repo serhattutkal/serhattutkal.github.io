@@ -26,24 +26,24 @@ author:
   avatar           : "profile.png"
   name             : "Serhat Tutkal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral researcher funded by Secihti at El Colegio de México"
+  location         : "Mexico City"
+  employer         : "Secretaría de Ciencia, Humanidades, Tecnología e Innovación - Secihti"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "stutkal@unal.edu.co" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ShpYfisAAAAJ&hl=en&oi=sra"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2882-4186"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Serhat-Tutkal"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57217048861"
   zotero           : # URL
 
 
