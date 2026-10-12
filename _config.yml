@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/serhattutkal/serhattutkal.github.io/blob/master/images/IMG_20250409_113456%20copy.jpg"
+  avatar           : "IMG_avatar_st"
   name             : "Serhat Tutkal"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher funded by Secretaría de Ciencia, Humanidades, Tecnología e Innovación at El Colegio de México"
